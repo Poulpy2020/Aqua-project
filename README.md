@@ -16,3 +16,6 @@ Automatisation Aquarium
 // SETUP LED L. 28
 // SETUP ephemeris via L. 383 // https://www.coordonnees-gps.fr/
 // Fish distribution - comment if need disable / or change time via  L. 389
+
+
+// ADD Ephemeris.zip lib. to the \Arduino\libraries or your project
