@@ -19,3 +19,13 @@ Automatisation Aquarium
 
 
 // ADD Ephemeris.zip lib. to the \Arduino\libraries or your project
+
+
+// Materiel ;
+D1 mini - 
+Led type - WS2812B
+sonde temp : DS18B20
+mini screen SSD1306
+
+// Auto fish eat module 
+Step motor 
