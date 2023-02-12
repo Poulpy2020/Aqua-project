@@ -1,7 +1,14 @@
 # Aqua-project
 Automatisation Aquarium 
 
+Self-contained aquarium automation project
 
+Principle:
+Reading of the aquarium temperature and sending on a screen, and/or via MQTT
+Adaptive day/night lighting;
+- Automatic day and night time adjustment
+- Gradual day/night light transition
+Fixed time food distribution module
 
 
 
